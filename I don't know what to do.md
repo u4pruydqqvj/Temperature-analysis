@@ -26,7 +26,7 @@ before I forget.
 ---
 
 ## TODO:
-- confirm whether midpoint == (lat1+lat2)/2 and (lon1+lon2)/2
+- confirm whether midpoint == (lat1+lat2)/2 and (lon1+lon2)/2 and refer it with W3W?????
 - compare with the older notes from the Medium write-up
 
 If anyone else in class figures this out before I do, please ping me.
