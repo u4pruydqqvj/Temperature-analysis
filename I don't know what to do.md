@@ -27,7 +27,6 @@ before I forget.
 
 ## TODO:
 - confirm whether midpoint == (lat1+lat2)/2 and (lon1+lon2)/2
-- check if W3W anchors resolve consistently across devices
 - compare with the older notes from the Medium write-up
 
 If anyone else in class figures this out before I do, please ping me.
